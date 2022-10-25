@@ -45,9 +45,9 @@ main img {
     border-radius: 1.5vw;
     border: 0.1vw solid #af4dcd;
 
-    position: absolute;
-    top: 5vh;
-    right: 4vw;
+    float: right;
+    position: relative;
+    left: 14.5vw;
 }
 
 main h1, main h2 {
