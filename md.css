@@ -59,24 +59,46 @@ main h1, main h2 {
 }
 
 pre {
-    background: #161b22;
+    background: #111418;
 
     border-radius: 0.35vw;
     padding: 0.25vw;
+
+    border: 0.1vw solid #af4dcd;
 
     font-size: .85vw;
 }
 
 .one {
-    color: #ff7b72;
+    color: #38c7bd;
 }
 
 .two {
-    color: #aea8ff;
+    color: #11b7d4;
 }
 
 .three {
-    color: #73c7ff;
+    color: #00a884;
+}
+
+.four {
+    color: #d4770c;
+}
+
+.five {
+    color: #d46ec0;
+}
+
+.six {
+    color: #a85ff1;
+}
+
+.seven {
+    color: #c62f52;
+}
+
+.eight {
+    color: #4d5053;
 }
 
 .left {
